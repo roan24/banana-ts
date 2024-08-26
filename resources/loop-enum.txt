@@ -1,0 +1,5 @@
+{Object.keys(CivilStatus).map((key) => (
+    <option key={key} value={CivilStatus[key as keyof typeof CivilStatus]}>
+        {key}
+    </option>
+))}

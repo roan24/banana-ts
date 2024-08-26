@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "address": "123 Elm Street",
+    "civilStatus": "Single",
+    "ageGroup": "18-25"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "address": "456 Oak Avenue",
+    "civilStatus": "Married",
+    "ageGroup": "26-35"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "address": "789 Pine Lane",
+    "civilStatus": "Single",
+    "ageGroup": "36-45"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "address": "101 Maple Drive",
+    "civilStatus": "Divorced",
+    "ageGroup": "46-55"
+  },
+  {
+    "id": 5,
+    "name": "Eve Davis",
+    "address": "202 Cedar Court",
+    "civilStatus": "Married",
+    "ageGroup": "56-65"
+  },
+  {
+    "id": 6,
+    "name": "Frank Wilson",
+    "address": "303 Birch Boulevard",
+    "civilStatus": "Single",
+    "ageGroup": "66-75"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "address": "404 Redwood Road",
+    "civilStatus": "Widowed",
+    "ageGroup": "76-85"
+  },
+  {
+    "id": 8,
+    "name": "Henry Martinez",
+    "address": "505 Spruce Street",
+    "civilStatus": "Single",
+    "ageGroup": "18-25"
+  },
+  {
+    "id": 9,
+    "name": "Isabel Clark",
+    "address": "606 Fir Lane",
+    "civilStatus": "Married",
+    "ageGroup": "26-35"
+  },
+  {
+    "id": 10,
+    "name": "Jack Thomas",
+    "address": "707 Cedar Grove",
+    "civilStatus": "Divorced",
+    "ageGroup": "36-45"
+  }
+]
